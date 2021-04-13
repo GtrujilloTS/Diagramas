@@ -1,13 +1,13 @@
-<mxfile host="app.diagrams.net" modified="2021-04-13T15:35:29.342Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36" etag="Pz7Eyuca_4xAVZHgTm_m" version="14.5.10" type="github">
+<mxfile host="app.diagrams.net" modified="2021-04-13T16:04:35.469Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36" etag="no3UxsL4n0ui8yo1JJnY" version="14.5.10" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1673" dy="896" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="ywOebZ2Gi2uqs7rj1K3A-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WIyWlLk6GJQsqaUBKTNV-3" target="ywOebZ2Gi2uqs7rj1K3A-22" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="WIyWlLk6GJQsqaUBKTNV-3" value="Cliente con Factura de Servicio o Refacciones&lt;br&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-3" value="Cliente con Factura de Servicio o Refacciones a Contado" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="210" y="91" width="140" height="50" as="geometry" />
         </mxCell>
         <mxCell id="ywOebZ2Gi2uqs7rj1K3A-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WIyWlLk6GJQsqaUBKTNV-10" target="ywOebZ2Gi2uqs7rj1K3A-21" edge="1">
@@ -143,8 +143,8 @@
         <mxCell id="ywOebZ2Gi2uqs7rj1K3A-44" value="Envio de Confirmacion de Redencion a WS" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="674" y="721" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="-6HTeKdlvMi4ZmpPSimi-0" value="&lt;h1&gt;&lt;br&gt;&lt;/h1&gt;&lt;p&gt;GTS: Este flujo es específicamente para Facturas de Servicio y Refacciones cuando la forma de pago sea a contado, ya que es necesario abrir la ventana de Venta Cobro y poder seleccionar una tarjeta.&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="530" y="56" width="200" height="184" as="geometry" />
+        <mxCell id="-6HTeKdlvMi4ZmpPSimi-0" value="&lt;h1&gt;&lt;br&gt;&lt;/h1&gt;&lt;p&gt;GTS: Este flujo es específicamente para Facturas de Servicio y Refacciones cuando la forma de pago sea a contado, ya que es necesario abrir la ventana de Venta Cobro y poder seleccionar una tarjeta.&lt;/p&gt;&lt;p&gt;Para casos de Redenciones no se podrán hacer desde CXC, solo será de VTAS.&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="530" y="56" width="200" height="214" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
