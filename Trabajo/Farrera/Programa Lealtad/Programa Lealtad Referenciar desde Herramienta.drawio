@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-04-13T23:45:20.620Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36" etag="95y8SehnTxVLZsLSF9cB" version="14.5.10" type="github">
+<mxfile host="app.diagrams.net" modified="2021-04-13T23:49:05.251Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36" etag="rBJ65hytIK8CXQjC7ort" version="14.5.10" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="2310" dy="821" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -94,9 +94,6 @@
         <mxCell id="DaWCEFGHuY_iHa4CVSMz-32" value="&lt;b&gt;Acciones por parte del usuario de intelisis&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="-40" y="175" width="250" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="DaWCEFGHuY_iHa4CVSMz-33" value="&lt;b&gt;Proceso Interno en IntelIsis(NO VISIBLE)&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="-40" y="205" width="240" height="20" as="geometry" />
-        </mxCell>
         <mxCell id="DaWCEFGHuY_iHa4CVSMz-34" value="&lt;b&gt;Fin&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="-35" y="235" width="30" height="20" as="geometry" />
         </mxCell>
@@ -154,6 +151,9 @@
         </mxCell>
         <mxCell id="DaWCEFGHuY_iHa4CVSMz-46" value="Mensaje de Aviso al usuario de que ya se ha generado una redención previamente" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry y="660" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="DaWCEFGHuY_iHa4CVSMz-50" value="&lt;b&gt;Proceso Interno en Intelisis(NO VISIBLE)&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-35" y="205" width="240" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
